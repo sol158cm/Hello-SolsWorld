@@ -1,2 +1,4 @@
-# Hello-SolsWorld
-sol's 1st project
+# Welcome to Sol's Parallel World!
+ゾルの空想世界へようこそ！
+ここは、私がプログラミングを練習するために作ったパラレルワールド「SolsWorld（ゾルズワールド）」です。
+架空の社会や企業、個人を使って、さまざまなウェブページを作成する予定です。
